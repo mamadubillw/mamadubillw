@@ -2,11 +2,8 @@
 
 
 
-- 🔭 I’m currently working as Fullstack Developper
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Pergunte-me sobre Technologia
+- 🔭Actualmente Trablhando como Freelacer Fullstack 
+- 🌱Actualmente Node.js & React
 - 📫 Contacte-me no email: mamadubdj@gmail.com
 - 😄 Pronouns: _bil
 
