@@ -1,11 +1,8 @@
 ### Ola eu sou Mamadu Bilo 👋
 
-
-
-- 🔭Actualmente Trablhando como Freelacer Fullstack 
-- 🌱Actualmente Node.js & React
+- 🔭 Self employer Fullstack 
+- 🌱 Aprendendo Node.js & React
 - 📫 Contacte-me no email: mamadubdj@gmail.com
-- 😄 Pronouns: _bil
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
